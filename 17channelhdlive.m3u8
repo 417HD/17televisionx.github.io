@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-ts://192.168.43.178:8080/test.ts
+https://proxy-020.ix7.dailymotion.com/sec(6nm4zlNbCOiZp0vrc3SGaW2SidGV7T0bmeGnj0ynAE-pHdTsCgkRTSOrRoCXJv3bIzHt_i42m19m_Kp0jgzeHE7uZRY85G5z88tgwLflJhU)/video/521/641/284146125_mp4_h264_aac_hd_1.m3u8#cell=core
